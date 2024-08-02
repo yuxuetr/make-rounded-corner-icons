@@ -23,6 +23,6 @@ cargo run
 
 ![原图像](./assets/1280.png)
 
-- 处理后的图像
+- 处理后的图像(在 Github 显示不出区别，可以下载看看效果)
 
 ![结果图像](./assets/1280_output.png)
